@@ -1,7 +1,7 @@
-## Frank Entriken
-## entriken@chapman.edu
-## CPSC 408 - Assignment 3
-## Student Database
+**Frank Entriken
+entriken@chapman.edu
+CPSC 408 - Assignment 3
+Student Database**
 
 Because it was not specified in the assignment descriptions, I still treat deleted students (isDeleted = 1) as any other; they can still be updated, show up in searches, and still occupy their unique StudentID.
 
